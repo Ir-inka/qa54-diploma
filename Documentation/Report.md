@@ -19,7 +19,8 @@ ___
 
 ## Результаты прохождения тестов собраны в отчёте Allure:
 
-![Allure-Report (1).png](..%2F..%2F..%2FUsers%2F%C8%F0%E8%ED%E0%2FDownloads%2FAllure-Report%20%281%29.png)
+![Allure-Report (1)](https://github.com/Ir-inka/qa54-diploma/assets/120489985/a744a698-3703-4aaf-9e00-8845b1cd1da2)
+
 
 
 ___
